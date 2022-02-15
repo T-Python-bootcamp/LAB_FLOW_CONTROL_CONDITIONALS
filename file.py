@@ -1,4 +1,4 @@
-movie = ""
+movie = "Movie Name"
 rating = 3
 popularity = 72.65
 if rating >= 4 and popularity > 80:
